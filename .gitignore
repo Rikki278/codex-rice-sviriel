@@ -1,0 +1,11 @@
+# Never commit credentials or runtime state
+auth.json
+*.token
+*.secret
+.env
+logs/
+sessions/
+history.jsonl
+memories/
+*.sqlite
+*.sqlite-*

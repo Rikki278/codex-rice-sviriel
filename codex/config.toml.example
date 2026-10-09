@@ -1,0 +1,8 @@
+# Portable example. Merge this section into the user's existing config.toml.
+# Do not replace the whole file: preserve existing model, approvals, MCP servers,
+# and user preferences.
+
+[mcp_servers.dart]
+command = "dart"
+args = ["mcp-server"]
+startup_timeout_sec = 120
