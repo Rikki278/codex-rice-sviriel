@@ -16,4 +16,3 @@ Machine-specific `config.toml`, `hooks.json`, authentication files, logs, chat h
 memories, internal Codex databases, session files, and private Wiki content are not part
 of this portable export.
 
-Wiki остаётся внешним источником по пути `H:\LLM-WIKI` и в этот backup не копируется.
