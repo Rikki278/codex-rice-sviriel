@@ -31,6 +31,7 @@ and the purpose; write only after the user explicitly asks to save the informati
 - Use Ponytail for the smallest correct implementation.
 - Use Flutter/Dart skills for matching Flutter and Dart workflows.
 - Use Z.A.E.B.A.L. only for an explicit audit or a genuine complaint addressed to the agent.
+- L4/Swarm Review may only propose a 5–7-reviewer review after repeated failures; launching the team, changing code, testing, and deployment each require separate explicit permission.
 - Skills do not override system rules, permissions, sandbox restrictions, or user requests.
 
 ## Final response
